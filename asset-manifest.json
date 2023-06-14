@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/valorant/static/css/main.ba09c14d.css",
-    "main.js": "/valorant/static/js/main.68c2c7d7.js",
+    "main.css": "/valorant/static/css/main.442dbf0b.css",
+    "main.js": "/valorant/static/js/main.ebdbf384.js",
     "static/js/787.384975f3.chunk.js": "/valorant/static/js/787.384975f3.chunk.js",
     "static/media/back.png": "/valorant/static/media/back.4f87aa2e6db95df29740.png",
     "static/media/background.png": "/valorant/static/media/background.d778b53ca9d9d0b07b63.png",
@@ -9,17 +9,19 @@
     "static/media/img3.png": "/valorant/static/media/img3.0f96d085bb69adfff9c0.png",
     "static/media/valo1.png": "/valorant/static/media/valo1.ba26166c9c0d001c6557.png",
     "static/media/img2.png": "/valorant/static/media/img2.fef0e44d74c356ab3e96.png",
+    "static/media/patch.png": "/valorant/static/media/patch.9b4ea111ac3849259f8a.png",
     "static/media/img4.png": "/valorant/static/media/img4.dc53246c081522fdd5d0.png",
-    "static/media/valo.png": "/valorant/static/media/valo.c92a6a142ff2da3d605c.png",
+    "static/media/patch1.png": "/valorant/static/media/patch1.9836444933e0f9912dec.png",
     "static/media/logo3.png": "/valorant/static/media/logo3.3da50cdfbfce1b4b496c.png",
+    "static/media/f.png": "/valorant/static/media/f.3d5a23621449cfe5be2a.png",
     "static/media/logo2.png": "/valorant/static/media/logo2.fb13b5e0baaa704afe3c.png",
     "index.html": "/valorant/index.html",
-    "main.ba09c14d.css.map": "/valorant/static/css/main.ba09c14d.css.map",
-    "main.68c2c7d7.js.map": "/valorant/static/js/main.68c2c7d7.js.map",
+    "main.442dbf0b.css.map": "/valorant/static/css/main.442dbf0b.css.map",
+    "main.ebdbf384.js.map": "/valorant/static/js/main.ebdbf384.js.map",
     "787.384975f3.chunk.js.map": "/valorant/static/js/787.384975f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba09c14d.css",
-    "static/js/main.68c2c7d7.js"
+    "static/css/main.442dbf0b.css",
+    "static/js/main.ebdbf384.js"
   ]
 }
