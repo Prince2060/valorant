@@ -1,0 +1,71 @@
+.play{
+    background-color: black;
+    position: relative;
+}
+.val{
+    font-size: 50px;
+   position: absolute;
+   top: 50px;
+   color: white;
+   right: 790px;
+}
+.playimage{
+ width: 100%;
+ height: 790px;
+ position: relative;
+}
+.butandplay{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #ff5f57;
+    width: 200px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 30px;
+    margin-left: 100px;
+}
+.butandplay:hover{
+    scale: 105%;
+    cursor: pointer;
+    .playcircle{
+        scale: 110%;
+    }
+}
+.playcircle{
+    font-size: 60px;
+}
+.play1{
+    font-size: 35px;
+    color: white;
+    font-weight: 700;
+}
+.patch{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    bottom: 40px;
+    right: 450px;
+    border-radius: 20px;
+}
+.patch:hover,.patch1:hover{
+    scale: 105%;
+    border: 2px solid white;
+}
+.patch1{
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    bottom: 40px;
+    right: 20px;
+    border-radius: 20px;
+}
+.marginshit{
+    padding-bottom: 4px;
+}
+.playshit{
+    text-decoration: none;
+}
+.playcircle1{
+    color: black;
+}

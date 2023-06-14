@@ -1,0 +1,215 @@
+.body1{
+background-color:rgba(28,28,28,255) ;
+position: relative;
+}
+.main{
+    width: 100%;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+    font-weight: 600;
+align-items: center;
+padding: 20px 0px 20px 0px;
+}
+
+.micro{
+    padding: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.micro:hover{
+    scale: 105%;
+    cursor: pointer;
+    transition-duration: 300ms;
+    background-color: grey;
+    color: aliceblue;
+}
+.riotandname{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.riot:hover{
+    scale: 105%;
+    cursor: pointer;
+    transition-duration: 300ms;
+}
+.riot{
+    width: 60px;
+    height: 60px;
+}
+.rtext{
+    font-size: 25px;
+}
+.micro1{
+    padding: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.micro1:hover{
+    scale: 105%;
+    cursor: pointer;
+    transition-duration: 300ms;
+    background-color: grey;
+    color: aliceblue;
+}
+.mygames{
+    color: white;
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: 40px;
+    padding-left: 80px;
+}
+.valoimage{
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.valoimage:hover{
+    border: 2px solid white;
+    scale: 105%;
+    transition-duration: 300ms;
+    cursor: pointer;
+}
+.logoandtext{
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 40px;
+   padding-bottom: 100px;
+}
+.valologo{
+    height: 40px;
+    width: 40px;
+    margin-left: 70px;
+}
+.valotext{
+    font-size: 30px;
+}
+.userbox{
+    background-color: #211f1f;
+    color: grey;
+    width: 260px;
+    height: 300px;
+    font-weight: 600;
+    font-size: 18px;
+    position: absolute;
+    top: 30px;
+    right: 65px;
+}
+.line{
+    border: 1px solid grey;
+}
+.accountandup{
+    display: flex;
+    align-items: center;
+ margin-top: 20px;
+ margin-left: 10px;
+   
+    justify-content: center;
+}
+.name{
+    padding: 10px 0px 20px 12px;
+}
+
+.settings{
+    margin-top: 20px;
+    margin-left: 40px;
+    text-decoration: none;
+ 
+}
+.settings:hover,.manish:hover{
+    background-color: #332e2e;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+.accountandup1{
+    display: flex;
+    align-items: center;
+ margin-top: 20px;
+ margin-left: 10px;
+    justify-content: center;
+}
+.accountandup:hover,.accountandup1:hover{
+    background-color: #332e2e;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+.uparrow{
+    margin-left: 15px;
+}
+.randc{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.three{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+    background-color: red;
+}
+.riot1{
+    background-color: red;
+    padding: 5px;
+    border-radius: 50%;
+    scale: 150%;
+}
+.set{
+    font-size: 20px;
+}
+.riottext{
+    font-size: 30px;
+}
+.cross{
+    font-size: 20px;
+}
+.riot2{
+    background-color: white;
+    padding: 5px;
+    border-radius: 50%;
+    scale: 80%;
+}
+.randc1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    margin-left: 200px;
+}
+.rc{
+    color: white;
+}
+.randc2{
+    display: flex;
+    gap: 10px;
+    margin-left: 200px;
+    width: 200px;
+}
+.mainthetwo{
+    display: flex;
+   align-items: center;
+}
+.manish{
+    text-decoration: none;
+    color: grey;
+}
+.settingsss{
+    margin-top: 20px;
+    text-decoration: none;
+    color: grey;
+}
+
+
+
+

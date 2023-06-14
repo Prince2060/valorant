@@ -1,0 +1,11 @@
+.fimg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.fimage{
+width: 700px;
+}
+.fckoff{
+    font-size: 100px;
+}

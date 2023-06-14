@@ -1,0 +1,174 @@
+.signout{
+display: flex;
+}
+.left{
+width: 20%;
+background-color: white;
+font-weight: 600;
+}
+.right{
+width: 80%;
+background-color: green;
+position: relative;
+}
+.rioticon{
+    font-size: 50px;
+    text-decoration: none;
+}
+.tworiots{
+    font-size: 20px;
+    font-weight: 800;
+}
+.iconandriot{
+    display: flex;
+    margin: 80px;
+ padding-left: 50px;
+    color: red;
+}
+.signin{
+    font-size: 25px;
+ text-align: center;
+    font-weight: 500;
+}
+.inputbox{
+margin-top: 25px;
+margin-left: 50px;
+padding: 15px 0px;
+padding-left: 5px;
+padding-right: 100px;
+background-color: #ededed;
+border: none;
+border-radius: 5px;
+}
+.inputbox1{
+    margin-top: 25px;
+    margin-left: 50px;
+    padding: 15px 0px;
+    padding-left: 5px;
+    padding-right: 100px;
+    background-color: #ededed;
+    border: none;
+    border-radius: 5px;
+    }
+.USERNAME{
+    text-align: left;
+}
+.bluebut{
+    background-color: #1877f2;
+    color: white;
+    padding: 0px 17px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.facebook{
+padding-top: 6px;
+font-size: 20px;
+}
+.bluebut1{
+    background-color: white;
+    color: white;
+    padding: 0px 17px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.bluebut2{
+    background-color: black;
+    color: white;
+    padding: 0px 17px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    margin-left: 10px;
+  
+
+}
+.bluebut3{
+    background-color: green;
+    color: white;
+    padding: 0px 17px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.fouricons{
+    display: flex;
+padding: 15px 40px;
+gap: 8px;
+}
+.checkbox{
+    background-color: #ededed;
+    padding: 10px;
+    border-radius: 5px;
+}
+.checkboxandtext{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+    padding: 10px 40px;
+   
+}
+.nextbox{
+    width: 100px;
+    border-radius:15px ;
+   text-align: center;
+ margin-top: 300px;
+ margin-left: 140px;
+ border: 1px solid grey;
+ color: grey;
+ margin-bottom: 30px;
+}
+.arrow{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.cantandversion{
+    display: flex;
+    justify-content: space-around;
+    color: grey;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-bottom: 23px;
+}
+.backimage{
+height: 100%;
+  width: 100%;
+  position: relative;
+}
+.micro2{
+    padding: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    margin-right: 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.teext{
+    text-decoration: none;
+}
+.linkname{
+    text-decoration: none;
+    color: red;
+}
+.tworiots1{
+    font-size: 20px;
+    font-weight: 800;
+    display: flex;
+}
+.bluebut:hover,.bluebut1:hover,.bluebut2:hover,.bluebut3:hover{
+scale: 105%;
+cursor: pointer;
+}
+.nextbox:hover,.arrow:hover{
+    scale: 105%;
+    cursor: pointer;
+    /* border: 1px solid grey; */
+    border-color: #ededed;
+    color:#ededed ;
+}
+.cant:hover,.version:hover{
+    color: black;
+    cursor: pointer;
+}
